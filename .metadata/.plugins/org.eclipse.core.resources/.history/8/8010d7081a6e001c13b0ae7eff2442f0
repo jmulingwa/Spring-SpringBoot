@@ -1,0 +1,5 @@
+package io.javabrains.springbootquickstart.topic;
+
+public class TopicRepository {
+
+}

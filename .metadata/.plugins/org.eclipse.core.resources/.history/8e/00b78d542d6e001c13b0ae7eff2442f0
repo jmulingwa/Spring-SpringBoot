@@ -1,0 +1,11 @@
+package io.javabrains.springbootquickstart.courses;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface CourseRepository extends CrudRepository<Course,String>{
+	//get all topics
+	//get topic given an id
+	//update topic(Topic t)
+	// delete topic(String id)
+	
+}
